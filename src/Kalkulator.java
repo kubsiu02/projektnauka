@@ -16,5 +16,6 @@ public class Kalkulator {
         int m = x * y;
         System.out.println("-----------------------------");
         System.out.println("Wynik dzialania: " + x + " * " + y + " = " + m);
+        // tesytfvsabfksdfkjsdn jdfsd
     }
 }
