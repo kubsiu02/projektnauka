@@ -12,5 +12,9 @@ public class Kalkulator {
 
         System.out.println("-----------------------------");
         System.out.println("Wynik dzialania: " + x + " + " + y + " = " + z);
+
+        int m = x * y;
+        System.out.println("-----------------------------");
+        System.out.println("Wynik dzialania: " + x + " * " + y + " = " + m);
     }
 }
