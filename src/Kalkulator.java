@@ -17,6 +17,7 @@ public class Kalkulator {
         System.out.println("-----------------------------");
         System.out.println("Wynik dzialania: " + x + " * " + y + " = " + m);
         // tesytfvsabfksdfkjsdn jdfsd
-        // XDDD
+        // XDDDns
+
     }
 }
